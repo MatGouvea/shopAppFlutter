@@ -1,6 +1,6 @@
 # shop
 
-A new Flutter project.
+App exemplo de loja feito em Flutter.
 
 ## Getting Started
 
